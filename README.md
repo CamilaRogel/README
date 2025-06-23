@@ -1,8 +1,8 @@
 
 
-##Ideas.Proyecto.Github
+## Ideas.Proyecto.Github
 
-#Preguntas a responder
+# Preguntas a responder
 
 1. En que organismo o grupo de organismo vas a trabajar ?
 voy a trabajar con plantas termogenicas que tengan un registro en NCBI
