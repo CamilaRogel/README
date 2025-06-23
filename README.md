@@ -1,8 +1,8 @@
 
 
-## Ideas.Proyecto.Github
+# Ideas Proyecto Github
 
-# Preguntas a responder
+## Preguntas a responder
 
 1. En que organismo o grupo de organismo vas a trabajar ?
 voy a trabajar con plantas termogenicas que tengan un registro en NCBI
@@ -18,3 +18,5 @@ Voy a usar Atom para tener una nomenclatura pareja, fig tree.
 
 4. Sube una foto que represente tu organismo o grupo de organismo. 
 ![alt text](https://ars.els-cdn.com/content/image/1-s2.0-S1369526625000445-gr1.jpg)
+
+# FIN :)	
