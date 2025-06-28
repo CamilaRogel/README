@@ -43,6 +43,12 @@ b) Se renombran las secuencias con el programa **ATOM*** usando el prefijo `CONa
 c) Se alinean las secuencias utilizando **MUSCLE**.  
 d) Se construye un árbol filogenético con **IQ-TREE**, empleando el mejor modelo evolutivo.  
 e) Se visualiza y edita el árbol generado con **FigTree**.
-4. Sube una foto que represente tu organismo o grupo de organismo. 
+ 
 ## Organismo
+
 ![alt text](https://ars.els-cdn.com/content/image/1-s2.0-S1369526625000445-gr1.jpg)
+
+## Referencias
+Claudel, C., Loiseau, O., Silvestro, D., Lev-Yadun, S., & Antonelli, A. (2023). Patterns and drivers of heat production in the plant genus Amorphophallus. Plant Journal, 115(4), 874–894. https://doi.org/10.1111/tpj.16343
+Peris, D., Postigo-Mijarra, J. M., Peñalver, E., Pellicer, J., Labandeira, C. C., Peña-Kairath, C., Pérez-Lorenzo, I., Sauquet, H., Delclòs, X., & Barrón, E. (2024). The impact of thermogenesis on the origin of insect pollination. Nature Plants, 10(9), 1297–1303. https://doi.org/10.1038/s41477-024-01775-z
+Wagner, A. M., Krab, K., Wagner, M. J., & Moore, A. L. (2008). Regulation of thermogenesis in flowering Araceae: The role of the alternative oxidase. Biochimica et Biophysica Acta - Bioenergetics, 1777(7–8), 993–1000. https://doi.org/10.1016/j.bbabio.2008.04.001
