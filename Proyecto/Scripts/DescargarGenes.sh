@@ -1,6 +1,6 @@
 # Definir genes y organismos
 mitogen=("AOX")
-organisms=("Anthurium" "Cycas")
+organisms=("Araceae" "Cycas")
 
 # Crear carpeta para los FASTA si no existe
 mkdir -p Fasta
