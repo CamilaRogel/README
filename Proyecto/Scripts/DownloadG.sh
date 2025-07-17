@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # Definir genes mitogénicos y organismos
 mitogen=("AOX")
