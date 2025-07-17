@@ -48,6 +48,19 @@ e) Se visualiza y edita el árbol generado con **FigTree**.
 
 ![alt text](https://ars.els-cdn.com/content/image/1-s2.0-S1369526625000445-gr1.jpg)
 
+
+## Conslusiónes
+- Se elaboró un arbol filogetico de para el Gen AOX de la familia Araceae con grupo externo  Cycas (género de gimnosperma) para observar las relaciones de
+plantas termogénicas que expresan esta proteín. Se tuvo algunos problemas al alinear las secuencias porque habian muchos duplicados, y probablemente sean 
+Isoformas del gen AOX.La aplicación de astral talvez hubiera servido, pero no se logró realizar. Sin embargo, en la filogenia, Las isoformas de AOX podrían
+dar lugar a un mayor número de subgrupos dentro de un mismo género (como en el caso de Arum maculatum),ya que las isoformas podrían estar asociadas
+con variaciones adaptativas dentro de las especies. Esto sugeriría que las especies que comparten una isoforma podrían estar adaptadas a ambientes similares,
+mientras que las que tienen otras isoformas podrían haber experimentado diferencias ecológicas o evolutiva
+- Si bien AOX en general cumple la función de regular la respiración mitocondrial y disipar calor, las distintas isoformas pueden tener roles 
+ligeramente diferentes dependiendo de la especie y las condiciones ambientales. Esto podría complicar la interpretación de las relaciones evolutivas,ya que 
+no solo se estaría analizando el gen como tal, sino sus variantes funcionales
+
+
 ## Referencias
 Claudel, C., Loiseau, O., Silvestro, D., Lev-Yadun, S., & Antonelli, A. (2023). 
 Patterns and drivers of heat production in the plant genus Amorphophallus. Plant
